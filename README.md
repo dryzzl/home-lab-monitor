@@ -25,6 +25,7 @@ Getting Started...
 The API will be available at:
 
 http://127.0.0.1:8000/metrics
+
 5. Launch the frontend
 
 Open frontend/index.html using Live Server (recommended) or your preferred local web server.
