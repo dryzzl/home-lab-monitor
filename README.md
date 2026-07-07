@@ -27,12 +27,7 @@ The API will be available at:
 http://127.0.0.1:8000/metrics
 
 5. Launch the frontend
-
-Open frontend/index.html using Live Server (recommended) or your preferred local web server.
-
-I would also add one more section
-
-This makes your GitHub stand out much more.
+  Open frontend/index.html using Live Server (recommended) or your preferred local web server.
 
 This Project Features ... 
   Live CPU, memory, and disk usage monitoring
